@@ -12,13 +12,26 @@
 #### Distributor #1 Transformation
 ![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/distributor%201.png)
 
+#### Distributor #2 Transformation
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/distributor%202.png)
+
+#### Distributor #1 Transformation
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/distributor%203.png)
 
 2) Data Loading:
 - Create a new SQL Server table with appropriate schema to store transformed data.
+#### Creating Tables to load using SQL Server 
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/Create%20table%20SQL%20server.png)
+
+#### View The Loaded table after Transformation
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/Select%20SQL%20Server.png)
 - Efficiently load cleansed and transformed data into the new table.
 3) Data Analysis:
 - Use Tableau to analyze key trends and patterns within the data.
 - Extract actionable insights and identify opportunities for improvement.
+#### Analyze data using Tableau
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/Tableau.png)
+
 
 ## Technologies:
 - Microsoft SQL Server Integration Services (SSIS): for data extraction, transformation, and loading (ETL) process.
