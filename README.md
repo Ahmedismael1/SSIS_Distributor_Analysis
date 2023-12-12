@@ -9,6 +9,10 @@
 - Perform data cleansing and enrichment to ensure accuracy and completeness.
 - Apply transformations to format data according to desired business rules.
 
+#### Distributor #1 Transformation
+![Image Link](https://github.com/Ahmedismael1/SSIS_Distributor_Analysis/blob/main/distributor%201.png)
+
+
 2) Data Loading:
 - Create a new SQL Server table with appropriate schema to store transformed data.
 - Efficiently load cleansed and transformed data into the new table.
@@ -36,7 +40,7 @@
 4) Improved business intelligence and reporting capabilities.
 
 ## Target Audience:
-### This project is relevant to data analysts, business intelligence professionals, and anyone interested in learning about data transformation and analysis using SSIS, SQL Server, and Tableau.
+ This project is relevant to data analysts, business intelligence professionals, and anyone interested in learning about data transformation and analysis using SSIS, SQL Server, and Tableau.
 
 # Keywords:
-## Data Transformation, SSIS, SQL Server, Tableau, Data Analysis, Data Visualization, Business Intelligence
+ Data Transformation, SSIS, SQL Server, Tableau, Data Analysis, Data Visualization, Business Intelligence
